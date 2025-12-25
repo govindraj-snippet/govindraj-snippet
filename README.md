@@ -63,13 +63,13 @@ I focus on **Data Structures & Algorithms (DSA), System Design, and Clean Archit
 ## GitHub Analytics
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=govindraj-snippet&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="180" alt="stats" />
+  
+  <img src="https://streak-stats.demolab.com?user=govindraj-snippet&theme=radical&hide_border=true" height="180" alt="streak" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=govindraj-snippet&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-<img src="https://streak-stats.demolab.com?user=govindraj-snippet&theme=radical&hide_border=true" width="48%" />
+  <br/>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=govindraj-snippet&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=govindraj-snippet&theme=react-dark&hide_border=true" />
 
 </div>
 
